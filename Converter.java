@@ -210,7 +210,7 @@ public class Convert
 
 	public static void main(String args[])
     {
-        benavidezG_OSpgm2 proj2 = new benavidezG_OSpgm2();
+        Converter converter = new Converter();
  		String filename = "RAMerrors8x4";//name of file
 		File file = new File (filename);//creating new file
 		
