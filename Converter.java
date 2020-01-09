@@ -10,7 +10,7 @@ Gabriel Benavidez
 import java.io.*;
 import java.util.*;
 
-public class benavidezG_OSpgm2
+public class Convert
 {
 	public static ArrayList <String> hex = new ArrayList <String>();
 	public static ArrayList <String> binary = new ArrayList <String>();
